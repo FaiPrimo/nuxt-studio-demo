@@ -9,6 +9,9 @@
   },
   "devDependencies": {
     "content-wind": "latest",
-    "nuxt": "latest"
+    "nuxt": "~3.12.4"
+  },
+  "overrides": {
+    "nitropack": "2.9.6"
   }
 }
